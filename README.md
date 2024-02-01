@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adesh1212
-- 👀 I’m interested in web development
+- 👀 I’m interested in Web Development
 
 
 
